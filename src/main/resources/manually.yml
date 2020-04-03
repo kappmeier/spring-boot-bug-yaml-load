@@ -1,0 +1,4 @@
+# The same example type but with explicit type annotation to be loaded by SnakeYAML
+exampleConfig: !!example.ExampleConfiguration
+    example: !!example.DefaultExampleType
+        property: 'test'

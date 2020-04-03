@@ -1,0 +1,4 @@
+# Load an example from Spring Boot using prefix exampleConfig
+exampleConfig:
+    example: !!example.DefaultExampleType
+        property: 'test'
