@@ -139,4 +139,4 @@ the property should be set in `ExampleType.setProperty`, as it expects a
 
 ## License
 
-This project is [licensed](LICENSE.md) under the terms of the Unlicense.
+This project is [licensed](LICENSE) under the terms of the Unlicense.
